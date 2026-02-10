@@ -1,0 +1,9 @@
+{
+	"name": "abazproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e7d3e7c-1dbf-4f63-a3b8-0e7804330a7c",
+		"tenantId": "69d0e5b5-cfeb-46cb-a207-f01281db2b32"
+	}
+}
